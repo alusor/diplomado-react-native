@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "427273285694",
+    "firebase_url": "https://curso-7c01c.firebaseio.com",
+    "project_id": "curso-7c01c",
+    "storage_bucket": "curso-7c01c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427273285694:android:464d66ae1f4a7635",
+        "android_client_info": {
+          "package_name": "com.cursocli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427273285694-jj3l3av0eald5jad4lo5i87qlb9jp94h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznVrw6l6p3FyFL2SYn7ImDo1hFNJXDFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
